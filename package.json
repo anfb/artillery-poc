@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/anfb/artillery-poc/issues"
   },
-  "homepage": "https://github.com/anfb/artillery-poc#readme"
+  "homepage": "https://github.com/anfb/artillery-poc#readme",
+  "dependencies": {
+    "artillery": "^1.7.6"
+  }
 }
