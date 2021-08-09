@@ -1,0 +1,23 @@
+{
+  "name": "artillery-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anfb/artillery-poc.git"
+  },
+  "keywords": [
+    "artillery",
+    "load-testing"
+  ],
+  "author": "Adriely Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anfb/artillery-poc/issues"
+  },
+  "homepage": "https://github.com/anfb/artillery-poc#readme"
+}
