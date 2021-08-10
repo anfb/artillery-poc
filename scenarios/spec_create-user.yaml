@@ -1,0 +1,10 @@
+scenarios:
+  - flow:
+    - post: 
+        url: "/user"
+        json:
+          name: "{{ name }}"
+          cpf: "{{ cpf }}"
+          birthDate: "{{ birthDate }}"
+
+          
