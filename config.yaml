@@ -2,7 +2,7 @@ config:
   target: ""
   environments:
     development:
-      target: "https://***.us-east-1.amazonaws.com/dev"
+      target: " https://***.us-east-1.amazonaws.com/v1"
       phases:
         - duration: 30
           arrivalRate: 5

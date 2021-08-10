@@ -1,7 +1,13 @@
+payload:
+  path: "users.csv"
+  fields:
+    - "name"
+    - "cpf"
+    - "birthDate"
 scenarios:
   - flow:
     - post: 
-        url: "/user"
+        url: "/users"
         json:
           name: "{{ name }}"
           cpf: "{{ cpf }}"
